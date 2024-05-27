@@ -1,0 +1,18 @@
+{
+  "gui.emotesmine.emote_window.label_choose_an_emote": "Choose an emote",
+  "gui.emotesmine.emote_window.button_empty": "\u003e",
+  "gui.emotesmine.emote_window.button_emote4": "Emote4",
+  "gui.emotesmine.emote_window.button_emote3": "Emote3",
+  "gui.emotesmine.emote_window.button_emote2": "Emote2",
+  "gui.emotesmine.emote_window.button_emote1": "Emote1",
+  "gui.emotesmine.emote_window_page_2.label_12": "2/2",
+  "gui.emotesmine.emote_window_page_2.label_test_page": "Test Page",
+  "gui.emotesmine.emote_window_page_2.button_empty": "\u003c",
+  "gui.emotesmine.emote_window.label_12": "1/2",
+  "gui.emotesmine.emote_window_page_2.label_choose_an_emote": "Choose an emote",
+  "gui.emotesmine.emote_window_page_2.button_emote1": "Emote1",
+  "gui.emotesmine.emote_window_page_2.button_emote3": "Emote3",
+  "gui.emotesmine.emote_window_page_2.button_emote2": "Emote2",
+  "gui.emotesmine.emote_window_page_2.button_emote4": "Emote4",
+  "key.emotesmine.emote_window_open": "Emote Window Open"
+}
